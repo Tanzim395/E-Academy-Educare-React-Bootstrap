@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Mark Zuckerberg",
+        "age": 37,
+        "gender": "male",
+        "followers": "942K",
+        "earning": 9500000,
+        "img": "https://images.yourstory.com/production/document_image/mystoryimage/zklg5plb-Mark-Zuckerberg.jpg?fm=auto&mode=crop&crop=faces&ar=1022:511&w=800"
+    },
+    {
+        "name": "Elon Musk",
+        "age": 50,
+        "gender": "male",
+        "followers": "3.1M ",
+        "earning": 19500000,
+        "img": "https://images.yourstory.com/production/document_image/mystoryimage/8z2e85lg-Elon-Musk.jpg?fm=auto&mode=crop&crop=faces&ar=1021:510&w=800"
+    },
+    {
+        "name": "Kara Swissher",
+        "age": 35,
+        "gender": "female",
+        "followers": "942K",
+        "earning": 19500000,
+        "img": "https://images.yourstory.com/production/document_image/mystoryimage/o60y7jzi-Kara-Swisher.jpg?fm=auto&mode=crop&crop=faces&ar=1022:511&w=800"
+    },
+    {
+        "name": "Robert Scoble",
+        "age": 45,
+        "gender": "male",
+        "followers": "701K",
+        "earning": 18000000,
+        "img": "https://images.yourstory.com/production/document_image/mystoryimage/cx9eg9l4-Robert_Scoble_(1).jpg?fm=auto&mode=crop&crop=faces&ar=4055:2027&w=800"
+    },
+    {
+        "name": "Tim O'Reilly",
+        "age": 55,
+        "gender": "male",
+        "followers": "372K",
+        "earning": 18500000,
+        "img": "https://images.yourstory.com/production/document_image/mystoryimage/v6f9qcpa-Tim_O'Reilly_1.jpg?fm=auto&mode=crop&crop=faces&ar=3008:1504&w=800"
+    },
+    {
+        "name": "Linus Sebastian",
+        "age": 35,
+        "gender": "male",
+        "followers": "372K",
+        "earning": 18500000,
+        "img": "https://i.ytimg.com/vi/hAsZCTL__lo/mqdefault.jpg"
+    },
+    {
+        "name": "Dave Winer",
+        "age": 50,
+        "gender": "male",
+        "followers": "1.1M",
+        "earning": 28500000,
+        "img": "https://images.yourstory.com/production/document_image/mystoryimage/5o17vlem-dave-winer-cover.jpg?fm=auto&mode=crop&crop=faces&ar=781:390&w=781"
+    },
+    {
+        "name": "Paul Graham",
+        "age": 34,
+        "gender": "male",
+        "followers": "435K",
+        "earning": 15500000,
+        "img": "https://images.yourstory.com/production/document_image/mystoryimage/62vyf3qt-Paul_Graham.png?fm=auto&mode=crop&crop=faces&ar=1916:958&w=800"
+    },
+    {
+        "name": "Mary Jo Foley",
+        "age": 37,
+        "gender": "female",
+        "followers": "131K",
+        "earning": 15500000,
+        "img": "https://images.yourstory.com/production/document_image/mystoryimage/shhlerns-MaryJoFoley_512_ch9.jpg?fm=auto&mode=crop&crop=faces&ar=511:255&w=511"
+    },
+    {
+        "name": "Suze Orman",
+        "age": 49,
+        "gender": "female",
+        "followers": "1.3M",
+        "earning": 15500020,
+        "img": "https://images.yourstory.com/production/document_image/mystoryimage/shhlerns-MaryJoFoley_512_ch9.jpg?fm=auto&mode=crop&crop=faces&ar=511:255&w=511"
+    },
+    {
+        "name": "Mina Markham",
+        "age": 47,
+        "gender": "female",
+        "followers": "1.9M",
+        "earning": 25300020,
+        "img": "https://images.yourstory.com/production/document_image/mystoryimage/ryb1hk2h-Mina-Markham.jpg?fm=auto&mode=crop&crop=faces&ar=1011:505&w=800"
+    },
+    {
+        "name": "Tim Cook",
+        "age": 35,
+        "gender": "male",
+        "followers": "65K",
+        "earning": 25300020,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/e/e1/%D0%A2%D0%B8%D0%BC_%D0%9A%D1%83%D0%BA_%2802-09-2021%29.jpg"
+    },
+    {
+        "name": "Jeff Bezos",
+        "age": 57,
+        "gender": "male",
+        "followers": "1.1m",
+        "earning": 25300020,
+        "img": "https://api.time.com/wp-content/uploads/2017/04/jeff-bezos2.jpg?w=800&quality=85"
+    },
+    {
+        "name": "Sundar Pichai",
+        "age": 35,
+        "gender": "male",
+        "followers": "165K",
+        "earning": 15300020,
+        "img": "https://api.time.com/wp-content/uploads/2017/04/sundar-pichai1.jpg?w=800&quality=85"
+    },
+    {
+        "name": " Evan Spiegel",
+        "age": 35,
+        "gender": "male",
+        "followers": "137K",
+        "earning": 15700070,
+        "img": "https://api.time.com/wp-content/uploads/2017/04/evan-spiegel2.jpg?w=800&quality=85"
+    }
+]
