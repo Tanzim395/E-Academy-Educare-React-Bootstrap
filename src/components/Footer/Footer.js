@@ -29,8 +29,8 @@ const Footer = () => {
                     <div className="flex flex-col space-y-4">
                         <h2 className="font-medium">Community</h2>
                         <div className="flex flex-col space-y-2 text-sm dark:text-coolGray-400">
-                            <NavLink to="#">GitHub </NavLink>
-                            <NavLink to="#">Discord </NavLink>
+                            <NavLink to="#">Online Forum </NavLink>
+                            <NavLink to="#">Microsoft Teams </NavLink>
                             <NavLink to="#">Twitter </NavLink>
                             <NavLink to="#">YouTube </NavLink>
                         </div>

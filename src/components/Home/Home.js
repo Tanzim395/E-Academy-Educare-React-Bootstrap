@@ -20,6 +20,7 @@ const Home = () => {
                                 src="https://media.architecturaldigest.com/photos/58ac753b5bf3275151855386/master/w_1600%2Cc_limit/1%252520-%252520Moody%252520Center%252520-%252520%252520Credit%252520Nash%252520Baker.jpg"
                                 alt="First slide"
                             />
+
                             <Carousel.Caption>
                                 <h3>First slide label</h3>
                                 <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
@@ -38,7 +39,7 @@ const Home = () => {
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
                                 <button className="btn btn-info">Click Here</button>
                             </Carousel.Caption>
-                        </Carousel.Item>
+                        </Carousel.Item >
                         <Carousel.Item>
                             <img
                                 className="d-block w-100 h-50 img-fluid"
@@ -75,9 +76,9 @@ const Home = () => {
                 </div>
             </section>
 
-            <section class="container my-5 bg-light">
+            <section class="container my-5 bg-light border border-secondary rounded">
                 <h1 class="text-center fs-1 my-5">
-                    <span class="text-info">A Day In life in E-Academy</span>
+                    <span class="text-info">A Day in E-Academy</span>
                 </h1>
                 <div class="row">
 
