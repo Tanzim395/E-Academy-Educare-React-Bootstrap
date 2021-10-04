@@ -9,6 +9,7 @@ import About from './components/About/About';
 import Courses from './components/Courses/Courses';
 import CourseDetails from './components/CourseDetails/CourseDetails';
 import Teachers from './components/Teachers/Teachers';
+import Success from './components/Success/Success';
 
 
 function App() {
@@ -42,6 +43,9 @@ function App() {
             <Teachers></Teachers>
           </Route>
 
+          <Route exact path='/success'>
+            <Success></Success>
+          </Route>
 
           <Route>
             <NotFound></NotFound>

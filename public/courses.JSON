@@ -1,79 +1,86 @@
 [
     {
         "id": 1,
-        "name": "Computer Technology",
-        "price": 200,
+        "name": "Basic HTML,CSS,JS",
+        "price": 250,
         "duration": "6 month",
-        "img": "http://html.kodesolution.live/s/studypress/v6.0/demo/images/project/5.jpg"
+        "img": "https://p.kindpng.com/picc/s/171-1718210_html-dialog-element-taking-full-advantage-of-javascript.png"
     },
     {
         "id": 2,
-        "name": "Development Studies",
-        "price": 50,
-        "duration": "4 month",
-        "img": "http://html.kodesolution.live/s/studypress/v6.0/demo/images/project/6.jpg"
+        "name": "App Development",
+        "price": 300,
+        "duration": "5 month",
+        "img": "https://qph.fs.quoracdn.net/main-qimg-9ce8aa204a21e69716018fee472b042c"
     },
     {
         "id": 3,
-        "name": "Accounting Technologies",
+        "name": "Online Payment Course",
         "price": 50,
-        "duration": "4 month",
-        "img": "http://html.kodesolution.live/s/studypress/v6.0/demo/images/project/4.jpg"
+        "duration": "3 month",
+        "img": "https://d1whtlypfis84e.cloudfront.net/guides/wp-content/uploads/2018/12/18132011/ebnkg2-1024x1024.png"
     },
     {
         "id": 4,
-        "name": "Artificial Intelligence",
+        "name": "Robot Science",
         "price": 150,
-        "duration": "6 month",
-        "img": "https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2019/06/Types-Of-Artificial-Intelligence.jpg"
+        "duration": "1 year",
+        "img": "https://ce8dc832c.cloudimg.io/cdn/n/n@c56373b4a7fd7d98f66fd0626dcfae31c9f26624/_cs_/2020/11/5fbb9b4684ca4/Arduino_2020_RD.png"
     },
     {
         "id": 5,
-        "name": "Web Application",
-        "price": 100,
+        "name": "React SPA",
+        "price": 250,
         "duration": "6 month",
-        "img": "https://hachinet.com/upload/2020/08/web-app-la-gi-co-gi-khac-voi-website-20200831080108.png"
+        "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--54ca_F2q--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/1wwdyw5de8avrdkgtz5n.png"
     },
     {
         "id": 6,
-        "name": "Neural Networks",
-        "price": 50,
-        "duration": "4 month",
-        "img": "https://eenews.cdnartwhere.eu/sites/default/files/styles/inner_article/public/import/2015-11-30-s20_brainchip.jpg?itok=xTeXRB5F"
+        "name": "Data Science",
+        "price": 250,
+        "duration": "8 month",
+        "img": "https://previews.123rf.com/images/essaphear/essaphear1709/essaphear170900001/86808937-data-science-logo-icon-design-vector.jpg"
     },
     {
         "id": 7,
-        "name": "Rocket Science",
+        "name": "Block-Chainig",
         "price": 150,
         "duration": "6 month",
-        "img": "https://cdn.vox-cdn.com/thumbor/KnctRzC2sg3vppjdKIOnZNcy-QQ=/0x0:2667x1500/1200x800/filters:focal(1121x537:1547x963)/cdn.vox-cdn.com/uploads/chorus_image/image/57657813/Rocket_banner.0.jpg"
+        "img": "https://image.shutterstock.com/image-vector/blockchain-line-icon-logo-concept-260nw-754816570.jpg"
     },
     {
         "id": 8,
-        "name": "Robotics",
-        "price": 50,
-        "duration": "4 month",
-        "img": "https://miro.medium.com/max/800/0*i9fwlQw-55T7Bydg.jpg"
+        "name": "Artifical Intellignece",
+        "price": 500,
+        "duration": "7 month",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0ZuIC9dNExq34T5Bw6-i-p6FP8aaslQQh9FylfSkcz06EOETGPokj_5rVRqv8C5vX39M&usqp=CAU"
     },
     {
         "id": 9,
-        "name": "Microprocessor core conecpts",
+        "name": "SQL Management",
         "price": 50,
         "duration": "4 month",
-        "img": "https://image.shutterstock.com/image-photo/prague-czech-republic-january-2019-260nw-1617600667.jpg"
+        "img": "https://thumbs.dreamstime.com/b/sql-database-icon-logo-design-ui-ux-app-orange-inscription-shadow-96841969.jpg"
     },
     {
         "id": 10,
-        "name": "Operating System",
-        "price": 100,
-        "duration": "4 month",
-        "img": "https://predictabledesigns.com/wp-content/uploads/2020/06/FeaturedImage-1.jpg"
+        "name": "Mobile App Development",
+        "price": 150,
+        "duration": "6 month",
+        "img": "https://www.designveloper.com/wp-content/uploads/2020/06/1_JUSbO0xkXPf2jtYLMSAZ8w.jpeg"
     },
     {
         "id": 11,
-        "name": "Hardware and Software",
+        "name": "MERN Stack Developer",
         "price": 50,
         "duration": "4 month",
-        "img": "https://www.creationtech.com/wp-content/uploads/2018/05/IoT-AdobeStock_140202697-1024x768-1-1024x768.jpg"
+        "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--0FRJGdyZ--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/epv55hgtsfi8csprpj9u.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Modern Frontend Mini Bootcamp",
+        "price": 450,
+        "duration": "1 month",
+        "img": "https://www.kindpng.com/picc/m/299-2994011_front-end-development-logos-hd-png-download.png"
     }
 ]
