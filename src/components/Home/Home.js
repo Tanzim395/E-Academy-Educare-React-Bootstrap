@@ -93,7 +93,7 @@ const Home = () => {
                         </div>
                     </div>
 
-                    <div class="col-md-6 d-flex justify-content-center g-5">
+                    <div class="col-md-6 d-flex justify-content-center py-5 mt-5 g-5">
                         <iframe width="560" height="315" src="https://www.youtube.com/embed/YRqliylx3aE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     </div>
                 </div>
