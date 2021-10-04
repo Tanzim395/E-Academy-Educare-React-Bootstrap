@@ -16,7 +16,7 @@ const KeyCourse = (props) => {
             <h2>{name}</h2>
             <h3>${price}</h3>
             <br />
-            <button onClick={handleDetails} className='text-white bg-blue-900 rounded-lg font-mono text-xl p-2'>Details</button>
+            <button onClick={handleDetails} className='text-white bg-blue-900 rounded-lg font-mono text-xl p-2'>Course Details</button>
         </div>
     );
 };

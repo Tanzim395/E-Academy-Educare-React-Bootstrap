@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { useParams } from 'react-router';
-import NotFound from '../NotFound/NotFound';
+import Courses from '../Courses/Courses';
 
 const CourseDetails = () => {
     const { courseId } = useParams();
@@ -14,9 +14,9 @@ const CourseDetails = () => {
     console.log(details);
     return (
         <div>
-            <h1 className='text-3xl text-center'>Not Available Right Now</h1>
+            <h1 className='text-3xl text-center'>Enroll Now!!!</h1>
             <br />
-            <NotFound></NotFound>
+            <Courses></Courses>
         </div>
     );
 };
