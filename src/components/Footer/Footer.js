@@ -7,40 +7,24 @@ const Footer = () => {
             <footer className="p-6 bg-dark text-white">
                 <div className="container grid grid-cols-2 mx-auto gap-x-3 gap-y-8 sm:grid-cols-3 md:grid-cols-4">
                     <div className="flex flex-col space-y-4">
-                        <h2 className="font-medium">Getting started</h2>
+                        <h2 className="font-medium">Our Location</h2>
                         <div className="flex flex-col space-y-2 text-sm dark:text-coolGray-400">
-                            <NavLink to="#">Installation </NavLink>
-                            <NavLink to="#">Release Notes </NavLink>
-                            <NavLink to="#">Upgrade Guide </NavLink>
-                            <NavLink to="#">Using with Preprocessors </NavLink>
-                            <NavLink to="#">Optimizing for Production </NavLink>
-                            <NavLink to="#">Browser Support </NavLink>
-                            <NavLink to="#">IntelliSense </NavLink>
+                            <p>Mascott Plaza,Uttara,Dhaka-1200</p>
+                            <p>Phone-013235235215</p>
+                            <p>e-mail:edu-care@e-academy.com</p>
+                            <p>24/7 Online Care</p>
                         </div>
                     </div>
+
                     <div className="flex flex-col space-y-4">
-                        <h2 className="font-medium">Core Concepts</h2>
-                        <div className="flex flex-col space-y-2 text-sm dark:text-coolGray-400">
-                            <NavLink to="#">Utility-First </NavLink>
-                            <NavLink to="#">Responsive Design </NavLink>
-                            <NavLink to="#">Hover, Focus, &amp; Other States </NavLink>
-                            <NavLink to="#">Dark Mode </NavLink>
-                            <NavLink to="#">Adding Base Styles </NavLink>
-                            <NavLink to="#">Extracting Components </NavLink>
-                            <NavLink to="#">Adding New Utilities </NavLink>
-                        </div>
-                    </div>
-                    <div className="flex flex-col space-y-4">
-                        <h2 className="font-medium">Customization</h2>
-                        <div className="flex flex-col space-y-2 text-sm dark:text-coolGray-400">
-                            <NavLink to="#">Configuration </NavLink>
-                            <NavLink to="#">Theme Configuration </NavLink>
-                            <NavLink to="#">Breakpoints </NavLink>
-                            <NavLink to="#">Customizing Colors </NavLink>
-                            <NavLink to="#">Customizing Spacing </NavLink>
-                            <NavLink to="#">Configuring Variants </NavLink>
-                            <NavLink to="#">Plugins </NavLink>
-                        </div>
+                        <h2 className="font-medium">Our Trustee</h2>
+                        <p>
+                            <ul>
+                                <li>Mahbubul Islam</li>
+                                <li>Hanif Morshed</li>
+                                <li>Anisul Islam</li>
+                            </ul>
+                        </p>
                     </div>
                     <div className="flex flex-col space-y-4">
                         <h2 className="font-medium">Community</h2>
@@ -53,7 +37,7 @@ const Footer = () => {
                     </div>
                 </div>
                 <div className="flex items-center justify-center px-6 pt-12 text-sm">
-                    <span className="dark:text-coolGray-400">©MKS Copyright 2021. All Rights Reserved.</span>
+                    <span className="dark:text-coolGray-400">©copyright.      E-Academy 2021. All Rights Reserved.</span>
                 </div>
             </footer>
         </div>
