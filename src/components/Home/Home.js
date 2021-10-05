@@ -76,16 +76,16 @@ const Home = () => {
                 </div>
             </section>
 
-            <section class="container my-5 bg-light border border-secondary rounded">
-                <h1 class="text-center fs-1 my-5">
-                    <span class="text-info">A Day in E-Academy</span>
+            <section className="container my-5 bg-light border border-secondary rounded">
+                <h1 className="text-center fs-1 my-5">
+                    <span className="text-info">A Day in E-Academy</span>
                 </h1>
-                <div class="row">
+                <div className="row">
 
-                    <div class="col-md-6 d-flex  justify-content-center align-items-center g-5 ">
-                        <div class=" w-100">
+                    <div className="col-md-6 d-flex  justify-content-center align-items-center g-5 ">
+                        <div className=" w-100">
                             <div>
-                                <h1 class="text-center">Explore Enthuism of the Modern Technology</h1>
+                                <h1 className="text-center">Explore Enthuism of the Modern Technology</h1>
                                 <p>
                                     Hello everyone! I’m Mishani, a third-year student at E-Academy, and I’d like to share my experience of studying Modern AI. I’ll be talking about class structure, modules and teaching methods as well as how the overall experience has been so far. I hope this helps anyone looking to pursue a similar degree here.
                                 </p>
@@ -93,8 +93,8 @@ const Home = () => {
                         </div>
                     </div>
 
-                    <div class="col-md-6 d-flex justify-content-center py-5 mt-5 g-5">
-                        <iframe width="560" height="315" src="https://www.youtube.com/embed/YRqliylx3aE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <div className="col-md-6 d-flex justify-content-center py-5 mt-5 g-5">
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/YRqliylx3aE" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
                     </div>
                 </div>
 
